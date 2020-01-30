@@ -1,0 +1,10 @@
+/* YOUR CUSTOM STYLES */
+img.image-product{
+    width: 200px;
+    height: 200px;
+}
+
+.center {
+    text-align: center;
+    text-align: -webkit-center;
+}
